@@ -1,4 +1,4 @@
-public class QuickSort {
+public class quicksort{
 
     public static void quickSort(int[] arr, int low, int high) {
         if (low < high) {

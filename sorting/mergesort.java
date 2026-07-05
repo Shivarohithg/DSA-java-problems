@@ -1,4 +1,4 @@
-public class MergeSort {
+public class mergesort {
 
     public static void mergeSort(int[] arr, int left, int right) {
         if (left >= right) {
