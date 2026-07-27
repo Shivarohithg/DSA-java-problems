@@ -1,4 +1,8 @@
+
+public class main{
+
 public static void insertionSort(int[] arr) {
+
     int n = arr.length;
 
     for (int i = 1; i < n; i++) {
@@ -14,4 +18,5 @@ public static void insertionSort(int[] arr) {
         // Place key in its correct position
         arr[j + 1] = key;
     }
+}
 }
