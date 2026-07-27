@@ -1,5 +1,5 @@
     import java.util.*;
-public class number_between {
+public class number_be{
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
