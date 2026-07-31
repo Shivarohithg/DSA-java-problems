@@ -1,4 +1,4 @@
-class Solution {
+class zeroFilledSubarray {
     public long zeroFilledSubarray(int[] nums) {
         long count = 0;
         long consecutivezeroes = 0;

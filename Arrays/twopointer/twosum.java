@@ -1,4 +1,4 @@
-class Solution {
+class twosum {
     public int[] twoSum(int[] numbers, int target) {
 
         int left = 0;

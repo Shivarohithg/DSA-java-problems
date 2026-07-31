@@ -1,4 +1,4 @@
-class Solution {
+class shufflearray {
     public int[] shuffle(int[] nums, int n) {
         
         int i = 0;
