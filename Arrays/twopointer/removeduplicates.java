@@ -1,5 +1,5 @@
-class Removeduplicates {
-    public int removeDuplicates(int[] nums) {
+class removeduplicates {
+    public int RemoveDuplicates(int[] nums) {
 
         if(nums.length == 0){
             return 0;
