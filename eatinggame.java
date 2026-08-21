@@ -48,6 +48,7 @@ public class eatinggame {
 
             System.out.println(ans);
         }
+        sc.close();
     }
 }
     

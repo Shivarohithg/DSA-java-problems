@@ -20,5 +20,7 @@ public class Equalizer {
                 System.out.println("NO");
             }
         }
+        sc.close();
+    
     }
 }
