@@ -29,7 +29,7 @@ class Blancedparantheses {
 
 public class Main {
     public static void main(String[] args) {
-        Solution solver = new Solution();
+        Blancedparantheses solver = new Blancedparantheses();
 
         String test1 = "()[]{}";
         String test2 = "([)]";
