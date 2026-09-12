@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class DominoTiles {
     static final long MOD = 998244353;
 
     public static void main(String[] args) {
