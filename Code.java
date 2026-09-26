@@ -37,6 +37,6 @@ public class Code{
 
         sc.close();
     }
-} Code {
+
     
 }
